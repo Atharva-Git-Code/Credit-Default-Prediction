@@ -23,7 +23,9 @@ With the growing number of credit card users, banks have been facing an escalati
 5. Architecture : https://drive.google.com/file/d/1XrVM8luDErQbgBERxEW-ouo31dHC2H0n/view?usp=sharing
 
 ***********************************
-## Cloud Server Deplloyment(Deployed in Railway.app) : 
+
+## Cloud Server Deployment(Deployed in Railway.app) : credit-default-prediction-production.up.railway.app
+
 
 ***********************************
 ## Dataset Information
