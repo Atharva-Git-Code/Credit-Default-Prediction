@@ -32,16 +32,10 @@ Link : https://www.kaggle.com/uciml/defaultof-credit-cardclients-dataset
 The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using 
 the pip package, ensuring you have the latest version of pip. 
 
-*****************************
-
-## Directory Tree
-
-![image](https://user-images.githubusercontent.com/77207245/199427790-f2296505-479f-4de8-867e-4c4888357655.png)
-
-
 ****************************************
 ## Watch the Demo here
-[![image alt text](https://user-images.githubusercontent.com/77207245/198889458-fbcc7f7f-6026-496d-b951-cb5608b2afb0.PNG)](https://youtu.be/qwW_QYNtcvM)
+
+https://user-images.githubusercontent.com/28856616/209473495-c61f36e9-40cd-4811-bff8-725ac8878fc3.mp4
 
 
 ***********************************************
